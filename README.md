@@ -21,3 +21,15 @@ Topics:
 - Arithmetic operators  
 - Relational operators  
 - Unary operators
+
+##  conditional statement 
+Topics:
+- if statment
+- if else
+##  Loops 
+Topics:
+- for loop 
+- while loop
+- do while loop
+- nested loop 
+
