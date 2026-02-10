@@ -32,4 +32,8 @@ Topics:
 - while loop
 - do while loop
 - nested loop 
-
+##  Function 
+Topics:
+- create function
+- call function
+- Parameters or Arguments
